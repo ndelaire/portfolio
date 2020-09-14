@@ -1,16 +1,35 @@
 body {
-    background-image: url("./Images/pexels-photo-1939485.jpeg");
+    background-image: url("./Images/pexels-chait-goli-1796730.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     
   }
 
 #aboutmephoto {
-  width: 300px;
-  height: 200px;
+  width: 230px;
+  height: 300px;
   margin-right: 20px;
   margin-bottom: 20px;
+ 
+}
+
+#navbarname {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
 }
 main {
   background-color: white;
   margin-top: 50px;
+}
 
+.newfont {
+  font-family: 'Shadows Into Light', cursive;
+  color: grey
+}
+.submit-btn {
+  margin: 10px;
+  background-color: darkgrey;
+  color:black;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px; 
 }
