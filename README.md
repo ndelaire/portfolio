@@ -4,19 +4,19 @@ View the [GitHub page](https://ndelaire.github.io/responsiveportfolio_hw2/)
 
 ## Table of Contents
 
-Project Overview 
-HTML 
-CSS 
-Built With
-Getting Started
-Prerequisites
-Installation
-Usage
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements
+* Project Overview 
+* HTML 
+* CSS 
+* Built With
+* Getting Started
+* Prerequisites
+* Installation
+* Usage
+* Roadmap
+* Contributing
+* License
+* Contact
+* Acknowledgements
 
 ## Project Overview
 The purpose behind this project was to create a responsive design for my portfolio. Although still in the beginning stages of creating my portfolio, I wanted to create the framework to add future projects and have it be accessible to a variety of different window and screen sizes. The code was built using HTML, CSS, and Bootstrap CSS Framework to style and design the layout. I started off by having an About Me, a Contact page, and a Portfolio page. 
