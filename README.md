@@ -1,19 +1,13 @@
 # Homework Assignment 2: CSS and Bootstrap Homework: Responsive Portfolio
-You can take a look at the [project page](https://github.com/ndelaire/responsiveportfolio_hw2)
-View the [GitHub page](https://ndelaire.github.io/responsiveportfolio_hw2/) 
+* You can take a look at the [project page](https://github.com/ndelaire/responsiveportfolio_hw2)
+* View the [GitHub page](https://ndelaire.github.io/responsiveportfolio_hw2/) 
 
 ## Table of Contents
 
 * Project Overview 
 * HTML 
 * CSS 
-* Built With
-* Getting Started
-* Prerequisites
-* Installation
-* Usage
-* Roadmap
-* Contributing
+* Frameworks
 * License
 * Contact
 * Acknowledgements
@@ -24,7 +18,7 @@ The purpose behind this project was to create a responsive design for my portfol
 ![Screenshot of Website](https://smjomg.by.files.1drv.com/y4mHmyFP3hY6tijHADDJd8ylj6NDV8VwtTt6N31VEzhzwJbcDYU08etPkAklda_1SEfaVY2xIuUSU3_Cfj_XMpW9IpfEHNtcjOQjmLJA9hmT_EY86WX2P6NPuU314eSsWIwMFaMecRTpVGe8bVL6jENLdmYymNs_jKpSW2gHWsZf9uHgOgF-T9L8pfZO2eIeSgumL_LxB7QU8EyYPFwJd8oIw?width=1913&height=1042&cropmode=none)
 
 ## HTML
-HTML was created for three separate files: index.html, contact.html, and portolio.html. For the index.html file, Bootstrap was used to create a navbar, I utilized teh grid system to contain the About Me section and to add a fixed footer. 
+HTML was created for three separate files: index.html, contact.html, and portolio.html. For the index.html file, Bootstrap was used to create a navbar, I utilized the grid system to contain the About Me section and to add a fixed footer. 
 
 The same was done for the contact.html and portfolio.html but with a few modifications. I used a Bootstrap form for the Contact Me container and Bootstrap Card Deck for the portfolio. These cards will be filled out at a later date as projects are added and then can be linked. 
 
@@ -38,5 +32,11 @@ CSS was utilized to cover the background, add in my picture, and change the font
 ## Frameworks
 Use of Bootstrap CSS Framework 
 
+## License 
+None at this time
+
+## Contact
+Nadine Delaire - ndelaire16@gmail.com 
+Project Link: https://github.com/ndelaire/responsiveportfolio_hw2 
 
 
