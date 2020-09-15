@@ -2,7 +2,7 @@ body {
     background-image: url("./Images/pexels-chait-goli-1796730.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
+    background-attachment: fixed;
   }
 
 #aboutmephoto {
