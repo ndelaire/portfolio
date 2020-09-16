@@ -23,7 +23,7 @@ The same was done for the contact.html and portfolio.html but with a few modific
 
 ![Contact Me page](https://smirnq.by.files.1drv.com/y4mIBMcCr_GCbQypqQgsfX5q9lPbzo6pExBXrW0RrU7F6boJbNqwG2VHwC7lod5D97lk6_kWyQrIQrS2IGy90E_-FBaRq-sZHIHYB2aem7XDorhYc5JUkVJPtqIQJHllJRddsE2Uk-MF9HRJwPMaerfCqYGE6PGYUEA1H7RGVaRe2nr3VnN2IFMe--gUgNzuLBBROsedDQ9q9NohL42Nm08XQ?width=1906&height=1043&cropmode=none)
 
-![Portfolio Page](https://smgseg.by.files.1drv.com/y4mJnMTeJ0pNozHvfmoOdngTTDbgoGq1EHHFPCQOt0jecA_wmClOhPjjfkVS7r7uz6u7fwXLhpoJ8Tr65YW11Usc7OiiSCjLTU-XxQr4KXOszxEmYZfHjPfLRTIRtLi6G7ArdQMKjDDAvibS2RuD1NFnR-eni-Igv-bD7qqCdJWJTK1yIazMAzkOfI5aGpI3kWYFow0TgA7e8rugqx9oO5rSg?width=1924&height=1061&cropmode=none)
+![Portfolio Page](https://6feipg.by.files.1drv.com/y4mWrFaJdEIH_3oYCbFu6PBujdbaFiRnXGTI8a2jU03JVutaYcOXUaZzhFIQ1RGRaCUvyYRZwlWt7tKZ9GnVfovJJ7h5JqW2G8tHc7qXSdj9xCOIlJ-iyxwtLgXqakr7bg0_2MYN7OhVVqu1MJtlFptczY2umPllmRUvR8TSCpId7hUFrSYdA63ZWtnyizBqL1EAv5nNZ7orj5VMTA8xc6eAQ?width=1898&height=1043&cropmode=none)
 
 ## CSS
 CSS was utilized to cover the background, add in my picture, and change the font in the nav bar as well as the Contact Me and Portfolio pages. 
