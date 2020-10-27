@@ -41,6 +41,7 @@ main {
 #githubicon {
   text-align: center;
   width: 100%; 
+  bottom: 0;
 }
 
 #contactpageicon {
