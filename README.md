@@ -12,9 +12,9 @@
 * Contact
 
 ## Project Overview
-This project is a continuation of the Homework 2: Responsive Portfolio. This updated version of my portfolio has an updated About Me, links to projects on the Portfolio page, and additions to the Contact page.<br />
- The About Me page has links to my resume, GitHub, and LinkedIn. The Portfolio page has three projects included on the page. <br />
- The screenshots at the top of the card are clickable and will take a user to the deployed project and there is a GitHub icon on each that will take a user to the specific repo. <br />
+This project is a continuation of the Homework 2: Responsive Portfolio. This updated version of my portfolio has an updated About Me, links to projects on the Portfolio page, and additions to the Contact page.<br /><br />
+ The About Me page has links to my resume, GitHub, and LinkedIn. The Portfolio page has three projects included on the page. <br /><br />
+ The screenshots at the top of the card are clickable and will take a user to the deployed project and there is a GitHub icon on each that will take a user to the specific repo. <br /><br />
  The Contact page also has links to my resume, GitHub, and LinkedIn. The technologies used on my portfolio are HTML, CSS, Bootstrap CSS Framework to style and design the layout, as well as use of Font Awesome. 
 
 About Me ![About Me Page Demo](Aboutmepage.gif) <br />
