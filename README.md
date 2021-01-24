@@ -17,9 +17,7 @@ This is continued project to add work to my portfolio page. This updated version
  The screenshots at the top of the card are clickable and will take a user to the deployed project and there is a GitHub icon on each that will take a user to the specific repo. <br /><br />
  The Contact page also has links to my resume, GitHub, and LinkedIn. The technologies used on my portfolio are HTML, CSS, Bootstrap CSS Framework to style and design the layout, as well as use of Font Awesome. 
 
-About Me ![About Me Page Demo](Aboutmepage.gif) <br />
-Portfolio Page ![Portfolio Page Demo](Portfoliopage.gif) <br />
-Contact Page ![Contact Page Demo](Contactpage.gif)
+![Portfolio Demo](Portfolio_demo.gif)
 
 ## HTML
 HTML was created for three separate files: index.html, contact.html, and portfolio.html. For the index.html file, Bootstrap was used to create a navbar, I utilized the grid system to contain the About Me section and to add a fixed footer. 
